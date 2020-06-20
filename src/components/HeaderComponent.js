@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Nav, NavbarToggler, Collapse, NavItem, Navbar, NavbarBrand, Jumbotron, Button, Modal, ModalHeader, ModalBody, Form, FormGroup, Input, Label } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
+import { motion } from 'framer-motion';
 
 class Header extends Component {
 
